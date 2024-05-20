@@ -5,7 +5,7 @@ This project involves building a web application using the Express/Node.js platf
 Technologies Used
 
 Frontend: HTML, CSS and EJS  
-Backend:Node.js, Express.js, Axios
+Backend:Node.js, Express.js, Axios , REST API
 
 
 ## Run Locally
