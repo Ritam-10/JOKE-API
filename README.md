@@ -30,6 +30,8 @@ Install dependencies
 ```
 # APP UI
 
+![APP DEMO GIF](public/images/JOKE1.gif)
+
 
 
 
