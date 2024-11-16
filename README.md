@@ -1,4 +1,4 @@
-## JokeAPI
+## Laugh Harder
 
 This project involves building a web application using the Express/Node.js platform, integrating the JokeAPI to deliver jokes to users based on their names. The primary objective is to create an interactive and user-friendly website that demonstrates the ability to retrieve, manipulate, and present data from a public API.
 
